@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chatboat</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <section class="chatSection">
+      <!-- Header of web app -->
+
+      <div class="favicon">
+        <img src="/live-chat-icon.png" height="40" alt="" />
+        <h1>Chatboat</h1>
+      </div>
+
+      <!-- Message Area -->
+      <div class="messageArea"></div>
+
+      <!-- Input Message Here -->
+      <div>
+        <textarea
+          id="textarea"
+          cols="30"
+          rows="1"
+          placeholder="write a message..."
+        ></textarea>
+      </div>
+    </section>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/client.js"></script>
+  </body>
+</html>

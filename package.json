@@ -1,0 +1,19 @@
+{
+  "name": "chatapp-using-websocket",
+  "version": "1.0.0",
+  "description": "ChatApp Using NodeJS and SocketIO",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
