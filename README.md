@@ -13,5 +13,4 @@ npm run client2
 
 ## Screenshots
 
-![Upload](https://github.com/odysseymemoirs/electron_udp_chat/blob/master/image.png)
 ![Upload](https://raw.githubusercontent.com/xdpranali/chatboat-chatapp/main/public/Capture.PNG)
