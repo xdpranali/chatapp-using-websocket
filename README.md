@@ -1,10 +1,6 @@
-# chatapp-using-websocket
+# CHATBOAT Chat Example
 
 ChatApp Using NodeJS and SocketIO
-
-## CHATBOAT
-
-# Electron UDP Chat Example
 
 ## Installation
 
@@ -18,4 +14,4 @@ npm run client2
 ## Screenshots
 
 ![Upload](https://github.com/odysseymemoirs/electron_udp_chat/blob/master/image.png)
-![Screenshot]()
+![Upload](https://raw.githubusercontent.com/xdpranali/chatboat-chatapp/main/public/Capture.PNG)

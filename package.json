@@ -1,5 +1,5 @@
 {
-  "name": "chatapp-using-websocket",
+  "name": "chatboat-chatapp",
   "version": "1.0.0",
   "description": "ChatApp Using NodeJS and SocketIO",
   "main": "index.js",
